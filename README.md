@@ -149,3 +149,5 @@ the file is. Name the test by appending `-test.js` to the js file.
 ### License
 
 The MIT License © Konstantin Tarkus ([@koistya](https://twitter.com/koistya)), [Kriasoft](http://www.kriasoft.com)
+
+-
